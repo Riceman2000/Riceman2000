@@ -15,7 +15,7 @@ ____/\\\\\\\\\______/\\\\\\\\\\\________/\\\\\\\\\__/\\\\\\\\\\\\\\\_
 ![GitHub followers](https://img.shields.io/github/followers/Riceman2000?label=Follow&style=social)
 
 ## About me:
-I am an embedded systems engineer by trade working in the low level world of C and Rust. When I do get a chance to come up to the surace world, I like to work on things that people will use and add to their toolbelt for their own programming adventures. Open to learn and work on any number of projects. I am new to the world of contributing to the open source community but I hope to make an impact on these projects I rely on so heavily.
+I am an embedded systems engineer by trade working in the low level world of C and Rust. When I do get a chance to come up to the surace world, I like to work on things that people will use and add to their own toolbelt. Hoping to make an impact on these projects I rely on so heavily in the open source community.
 
 ### Languages:
 <!-- Reqd for dev icons: https://devicon.dev/ -->
