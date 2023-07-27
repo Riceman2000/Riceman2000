@@ -28,15 +28,8 @@ I am an embedded systems engineer by trade working in the low level world of C a
 <!-- Done with icons -->
 
 ### Dev environment:
-[<img src="https://camo.githubusercontent.com/92892e2441ba11c6584a145459c4fd61d26dc9080e802105c65819b7db05e22c/68747470733a2f2f617374726f6e76696d2e6769746875622e696f2f696d672f6c6f676f2f617374726f6e76696d2e737667" height="128"/>](https://github.com/AstroNvim/AstroNvim)
-[<img src="https://neovide.dev/assets/neovide-128x128.png" height="128"/>](https://github.com/neovide/neovide)
-
+I use NeoVim with the configuration in [this repository](https://github.com/Riceman2000/.dotfiles). Also see [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
 
 <!-- Live stats from https://github.com/anuraghazra/anuraghazra -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Riceman2000&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rice's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riceman2000&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Riceman2000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rice's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riceman2000&layout=donut&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<!-- Visitor count from: https://visitor-badge.glitch.me/ -->
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Riceman2000.Riceman2000&left_color=darkblue&right_color=black" alt="visitor badge"/>
-</p>
