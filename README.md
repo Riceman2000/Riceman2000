@@ -31,5 +31,5 @@ I am an embedded systems engineer by trade working in the low level world of C a
 I use NeoVim with the configuration in [this repository](https://github.com/Riceman2000/.dotfiles). Also see [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
 
 <!-- Live stats from https://github.com/anuraghazra/anuraghazra -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Riceman2000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rice's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riceman2000&layout=donut&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Riceman2000&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="Rice's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riceman2000&layout=donut&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
