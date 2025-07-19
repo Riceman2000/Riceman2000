@@ -10,12 +10,8 @@ ____/\\\\\\\\\______/\\\\\\\\\\\________/\\\\\\\\\__/\\\\\\\\\\\\\\\_
         _\///________\///__\///////////________\/////////__\///////////////__
 ```
 
-## Connect with me!
-[![Linkedin: Rice](https://img.shields.io/badge/-Rice-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Rice22)](https://www.linkedin.com/in/Rice22)
-![GitHub followers](https://img.shields.io/github/followers/Riceman2000?label=Follow&style=social)
-
 ## About me:
-I am an embedded systems engineer by trade working in the low level world of C and Rust. When I do get a chance to come up to the surface world, I like to work on things that people will use and add to their own toolbelt. Hoping to make an impact on these projects I rely on so heavily in the open source community.
+I am an embedded systems engineer by trade working with a focus on resource limted systems. I do not often get time to contribute to open source projects, but I enjoy creating small tools to help myself and others.
 
 ### Languages:
 <!-- Reqd for dev icons: https://devicon.dev/ -->
